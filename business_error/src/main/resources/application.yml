@@ -1,0 +1,7 @@
+server:
+  port: 8080
+  tomcat:
+    # 设置tomcat线程数
+    max-threads: 200
+    # 设置tomcat连接数
+    max-connections: 300
