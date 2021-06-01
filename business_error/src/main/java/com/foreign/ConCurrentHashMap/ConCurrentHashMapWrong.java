@@ -1,4 +1,4 @@
-package com.foreign.con_current_hashmap;
+package com.foreign.ConCurrentHashMap;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
